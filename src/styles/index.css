@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'farbod';
+    src:url('//cdn.font-store.ir/fonts/farbod/Farbod-Regular.woff2') format('woff2'),
+    url('//cdn.font-store.ir/fonts/farbod/Farbod-Regular.woff') format('woff'),
+    url('//cdn.font-store.ir/fonts/farbod/Farbod-Regular.ttf') format('truetype'),
+	url('//cdn.font-store.ir/fonts/farbod/Farbod-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nika';
+    src:url('//cdn.font-store.ir/fonts/nika/Nika-Regular.woff2') format('woff2'),
+    url('//cdn.font-store.ir/fonts/nika/Nika-Regular.woff') format('woff'),
+    url('//cdn.font-store.ir/fonts/nika/Nika-Regular.ttf') format('truetype'),
+	url('//cdn.font-store.ir/fonts/nika/Nika-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noon';
+    src:url('//cdn.font-store.ir/fonts/noon/Noon-Regular.woff2') format('woff2'),
+    url('//cdn.font-store.ir/fonts/noon/Noon-Regular.woff') format('woff'),
+    url('//cdn.font-store.ir/fonts/noon/Noon-Regular.ttf') format('truetype'),
+	url('//cdn.font-store.ir/fonts/noon/Noon-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src:url('//cdn.font-store.ir/fonts/yekan/Yekan-Regular.woff2') format('woff2'),
+    url('//cdn.font-store.ir/fonts/yekan/Yekan-Regular.woff') format('woff'),
+    url('//cdn.font-store.ir/fonts/yekan/Yekan-Regular.ttf') format('truetype'),
+	url('//cdn.font-store.ir/fonts/yekan/Yekan-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'yekan';
+    src:url('//cdn.font-store.ir/fonts/yekan/Yekan-Bold.woff2') format('woff2'),
+    url('//cdn.font-store.ir/fonts/yekan/Yekan-Bold.woff') format('woff'),
+    url('//cdn.font-store.ir/fonts/yekan/Yekan-Bold.ttf') format('truetype'),
+	url('//cdn.font-store.ir/fonts/yekan/Yekan-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'behdad';
+    src:url('//cdn.font-store.ir/fonts/behdad/Behdad-Regular.woff2') format('woff2'),
+    url('//cdn.font-store.ir/fonts/behdad/Behdad-Regular.woff') format('woff'),
+    url('//cdn.font-store.ir/fonts/behdad/Behdad-Regular.ttf') format('truetype'),
+	url('//cdn.font-store.ir/fonts/behdad/Behdad-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+	direction: rtl;
+}
+
+body {
+	background-color: #212121;
+}
+
+.text-primary {
+	color: #EEEEEE;
+}
+
+.farbod {
+    font-family: 'behdad' !important;
+}
+
+.grayscale {
+	filter: grayscale(1);
+}
